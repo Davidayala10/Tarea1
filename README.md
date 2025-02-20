@@ -1,3 +1,3 @@
 # Tarea1
 Hola spring en springboot
-![image](https://github.com/user-attachments/assets/b52dab34-9422-49da-b6fc-9dd5953e782f)
+![image](https://github.com/user-attachments/assets/58e185ac-24c9-4361-9b38-e1dec4f26ed8)
